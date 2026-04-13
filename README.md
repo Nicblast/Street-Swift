@@ -14,9 +14,13 @@ The transformation includes:
 
 * Standardization: Synchronized disparate date formats to allow for accurate week-over-week trend analysis.
 
-## Problem
+## Important note on methodology and data sources:
 
-# "Why is our fleet underperforming, and where exactly are we losing money?"
+The data utilized in this project is a synthetic representation of car-sharing operations. It was generated using a custom script to simulate high-variance business scenarios, such as regional demand shifts and service-level fluctuations. This approach allows for a controlled validation of the Business Analyst's diagnostic framework without compromising sensitive proprietary or PII (Personally Identifiable Information) data.
+
+## Business Problem
+
+# Why is our fleet underperforming, and where exactly are we losing money?
 
 To answer this for the CEO, the company has asked me to break that big question down into these four more specific sub-questions:
 
@@ -34,6 +38,9 @@ To answer this for the CEO, the company has asked me to break that big question 
 
 * Luxury Quality Gap: "Luxury" tier vehicles report a 40% lower average user rating compared to "Electric" models, suggesting that the premium price point does not currently align with the vehicle condition or user experience.
 
+![IMG_3470](https://github.com/user-attachments/assets/93f87543-83db-41e0-893a-67cd1d407937)
+
+
 ## Strategic Recommendations
 
 1.Fleet Relocation: Immediately transition 80% of the "Industrial Zone" fleet to the "Airport" and "Downtown" hubs where demand and completion rates are highest.
@@ -42,3 +49,18 @@ To answer this for the CEO, the company has asked me to break that big question 
 
 3.Tier Maintenance Audit: Conduct a physical audit of all "Luxury" assets to address the source of low user ratings and protect the brand’s premium positioning.
 
+## Constraints & future scope
+
+* Sample Size Constraints: The current dataset provides a snapshot of 60–1,000 trips. While sufficient for identifying high-level trends, a larger longitudinal study (10,000+ rows) would be required to account for seasonal variations.
+
+* Static Pricing Assumptions: The analysis assumes a fixed $15/hr billing rate. In a real-world scenario, dynamic pricing and varying insurance premiums per car model would add layers of complexity to the "Total Bill" calculation.
+
+* Lack of Qualitative Feedback: While User_Rating gives a numerical score, the data lacks qualitative "Review Text." Without text data, we can only guess why a rating was low (e.g., was the car dirty, or was the app's GPS inaccurate?).
+
+* Missing Operational Costs: The dataset focuses on revenue but lacks a "Cost" column (e.g., fuel, cleaning, parking permits). This limits the ability to calculate true Net Profit, allowing only for a "Gross Revenue" analysis.
+
+* Geographic Granularity: "City Zones" (Downtown, Suburbs, etc.) are broad categories. Real-world mobility optimization usually requires specific GPS coordinates or "Hex-bins" to pinpoint the exact street corners where cars are actually being underutilized.
+
+* Synthetic Homogeneity: Because the data is programmatically generated, it may lack the events (e.g., a major city marathon or a fleet-wide technical outage) that often disrupt real world startup operations.
+
+--
