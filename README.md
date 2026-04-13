@@ -49,6 +49,10 @@ To answer this for the CEO, the company has asked me to break that big question 
 
 3.Tier Maintenance Audit: Conduct a physical audit of all "Luxury" assets to address the source of low user ratings and protect the brand’s premium positioning.
 
+
+<img width="1536" height="1024" alt="IMG_3471" src="https://github.com/user-attachments/assets/7da774b4-9c85-4408-a90b-e63ca7d23290" />
+
+
 ## Constraints & future scope
 
 * Sample Size Constraints: The current dataset provides a snapshot of 60–1,000 trips. While sufficient for identifying high-level trends, a larger longitudinal study (10,000+ rows) would be required to account for seasonal variations.
