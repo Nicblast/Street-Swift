@@ -1,4 +1,8 @@
 # Street-Swift
+
+![IMG_3475](https://github.com/user-attachments/assets/0f44cae6-31e9-4820-a6eb-a2dc0259ea93)
+(Image generated with AI)
+--
 This analysis examines the first six months of StreetSwift, an urban mobility startup. The objective was to identify the root causes of high operational burn rates and lower-than-expected vehicle utilization across four primary city zones.
 
 ## Methodology
