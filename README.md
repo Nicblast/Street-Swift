@@ -9,8 +9,7 @@ This analysis examines the first six months of StreetSwift, an urban mobility st
 
 The raw data required a multi-stage Python transformation to ensure reporting accuracy:
 
-The transformation includes:
---
+**The transformation includes:**
 
 * Data Integrity: Eliminated duplicate trip logs to prevent revenue overestimation.
 
@@ -18,13 +17,13 @@ The transformation includes:
 
 * Standardization: Synchronized disparate date formats to allow for accurate week-over-week trend analysis.
 
-## Important note on methodology and data sources:
+**Important note on methodology and data sources:**
 
 The data utilized in this project is a synthetic representation of car-sharing operations. It was generated using a custom script to simulate high-variance business scenarios, such as regional demand shifts and service-level fluctuations. This approach allows for a controlled validation of the Business Analyst's diagnostic framework without compromising sensitive proprietary or PII (Personally Identifiable Information) data.
 
 ## Business Problem
 
-# Why is our fleet underperforming, and where exactly are we losing money?
+**Why is our fleet underperforming, and where exactly are we losing money?**
 
 To answer this for the CEO, the company has asked me to break that big question down into these four more specific sub-questions:
 
@@ -66,8 +65,64 @@ The result of the above findings results in the following:
 
 <img width="1536" height="1024" alt="IMG_3471" src="https://github.com/user-attachments/assets/7da774b4-9c85-4408-a90b-e63ca7d23290" />
 
+## Financial Modelling Analysis | Scaling Strategy 2.
 
-## Constraints & future scope
+This additional comparative analysis demonstrates StreetSwift’s transition from a negative margin operation to a profitable and scalable contribution margin framework. 
+
+The strategy focuses on shifting from high maintenance gas assets to a structured Electric Vehicle partnership, alongside implementing tiered geographic pricing. Under this model, the financial position improves from a monthly loss of $12,352.00 to a projected monthly profit of $29,700.
+
+**The Industrial Zone Constraint**
+
+Initial analysis indicates that StreetSwift is not generating sufficient revenue and is struggling to reach break even. Under the current operating structure, the company’s financial position is not sustainable in the long term.
+
+The table below presents a snapshot of current performance. Annual projections highlight a significant mismatch with monthly actuals, resulting in sustained losses.
+
+**Reality:** the company is currently spending $4.53 to generate $1.00 in revenue. Operating expenses remain disproportionately high relative to income.
+
+<img width="1350" height="607" alt="IMG_3515" src="https://github.com/user-attachments/assets/52b6b2fe-a91b-41e7-a0a9-c3d446f66c71" />
+
+
+Optimized Gas Fleet Strategy
+The first part of the analysis identifies the airport and suburban zones as the most profitable locations. In contrast, the industrial area performs poorly due to a high cancellation rate and short trip durations, both of which negatively impact revenue efficiency.
+
+Based on these findings, the recommended immediate action was to remove operations from the industrial zone and reallocate resources to higher performing areas. This adjustment is expected to deliver a rapid financial turnaround.
+
+The optimized approach includes complete withdrawal from the industrial zone and redeployment of the fleet to airport focused operations. A minimum booking fee of $20 is introduced to protect margins on short trips. In addition, physical audits of luxury assets are recommended to address low user ratings and maintain brand positioning within the premium segment.
+
+The following table illustrates the expected impact of this optimized gas fleet 
+
+<img width="1337" height="843" alt="IMG_3516" src="https://github.com/user-attachments/assets/f12db83f-8a13-4438-8872-417e2a611b75" />
+
+**Electric Scalability and Risk Management**
+
+While the optimized gas fleet strategy delivers profitability, it remains exposed to operational risks. Maintenance costs, limited vehicle availability, fuel price volatility, and geographic demand variability all introduce uncertainty that may affect long term performance.
+
+From a risk management perspective, relying solely on this model is not sufficient for sustained growth. These factors create structural vulnerabilities that could impact profitability under adverse conditions.
+
+To address this, an Electric Scalability strategy is proposed. This model enhances profitability while significantly reducing operational risk and improving long term resilience. The Car X partnership model is built on core principles designed to mitigate the limitations of the gas fleet approach.
+
+<img width="1341" height="601" alt="IMG_3517" src="https://github.com/user-attachments/assets/3b41e278-a69a-4111-b964-be3d139f565d" />
+
+**Operational Model**
+
+**Gas to Electric**
+The transition involves moving from 10 gas vehicles to 30 Electric Car X units. This shift significantly reduces maintenance complexity, as responsibility for servicing and repairs is transferred through the partnership. Fuel expenses are replaced by more stable and lower electricity costs.
+
+**Geographic expansion**
+Geographic focus is refined through complete removal of the industrial zone, which currently carries a 36% cancellation rate. Operations are concentrated in high demand areas including airports, train stations, and suburban zones. This ensures higher utilization rates and minimizes idle time.
+
+**Revenue Model**
+The revenue model is based on a 5% gross revenue share with the vehicle partner. (Car X). This structure eliminates large upfront capital investments and reduces financial risk. Instead of owning assets, the company scales through a performance based cost model, allowing for expansion without significant debt exposure.
+
+## Conclusion
+The analysis indicates that StreetSwift’s current trajectory represents a financial liability, but the underlying business model remains viable. By eliminating low performing zones and transitioning to an asset light, electric first approach, the company can shift from a $148,224 annual loss to a projected $356,400 profit.
+
+This strategy not only improves financial performance but also positions StreetSwift as a scalable and efficient operator within the urban mobility market. The data supports the transition, the partnership structure enables it, however, the execution will be the determining factor.
+
+
+
+
+## Constraints of the analysis
 
 * Sample Size Constraints: The current dataset provides a snapshot of 60–1,000 trips. While sufficient for identifying high-level trends, a larger longitudinal study (10,000+ rows) would be required to account for seasonal variations.
 
