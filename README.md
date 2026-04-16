@@ -1,10 +1,12 @@
 # Street-Swift Analysis | Executive Summary
 
 ![IMG_3475](https://github.com/user-attachments/assets/0f44cae6-31e9-4820-a6eb-a2dc0259ea93)
-
 *(Image generated with AI)*
+
 --
 This analysis examines the first six months of StreetSwift, an urban mobility startup. The objective was to identify the root causes of high operational burn rates and lower-than-expected vehicle utilization across four primary city zones.
+
+--
 
 ## Methodology
 
@@ -38,22 +40,40 @@ To answer this for the CEO, the company has asked me to break that big question 
 
 * The "Industrial Zone" Leak: This sector shows a 100% cancellation rate in the sample period. Fleet deployment in this zone currently generates zero ROI and incurs unnecessary logistics costs.
 
+
+
 ![IMG_3473](https://github.com/user-attachments/assets/269a1074-4c69-4cf2-9b78-47594da38f7d)
+
+
+
 
 
 * Asset Underutilization: Average trip duration for "Economy" vehicles is under 1 hour. Given the fixed costs of maintenance and insurance per trip, short-duration rentals are currently operating at a net loss.
 
+
+
 ![IMG_3472](https://github.com/user-attachments/assets/359af46c-bf9c-4f69-b926-8b42b0d4662b)
+
+
+
 
 
 * Luxury Quality Gap: "Luxury" tier vehicles report a 40% lower average user rating compared to "Electric" models, suggesting that the premium price point does not currently align with the vehicle condition or user experience.
 
+
+
 ![IMG_3474](https://github.com/user-attachments/assets/71e9bcbe-0f35-45ba-a451-c613007c46bf)
+
+
 
 The result of the above findings results in the following:
 
+
+
 ![IMG_3470](https://github.com/user-attachments/assets/a1087a68-af35-4f89-8dd2-39f3a15b2a06)
 
+
+__
 
 ## Strategic Recommendations
 
@@ -64,9 +84,11 @@ The result of the above findings results in the following:
 3.Tier Maintenance Audit: Conduct a physical audit of all "Luxury" assets to address the source of low user ratings and protect the brand’s premium positioning.
 
 
-<img width="1536" height="1024" alt="IMG_3471" src="https://github.com/user-attachments/assets/7da774b4-9c85-4408-a90b-e63ca7d23290" />
+<img width="1536" height="1024" alt="IMG_3471" src="https://github.com/user-attachments/assets/7da774b4-9c85-4408-a90b-[View Financial Model | StreetSwift](./Financial%20Model%20%7C%20StreetSwift.pdf)
 
-## Financial Modelling Analysis | Scaling Strategy 2.
+
+
+## Financial Modelling Analysis | Scaling Strategy | Car X
 
 This additional comparative analysis demonstrates StreetSwift’s transition from a negative margin operation to a profitable and scalable contribution margin framework. 
 
@@ -115,6 +137,9 @@ Geographic focus is refined through complete removal of the industrial zone, whi
 **Revenue Model**
 The revenue model is based on a 5% gross revenue share with the vehicle partner. (Car X). This structure eliminates large upfront capital investments and reduces financial risk. Instead of owning assets, the company scales through a performance based cost model, allowing for expansion without significant debt exposure.
 
+--
+
+
 ## Conclusion
 The analysis indicates that StreetSwift’s current trajectory represents a financial liability, but the underlying business model remains viable. By eliminating low performing zones and transitioning to an asset light, electric first approach, the company can shift from a $148,224 annual loss to a projected $356,400 profit.
 
@@ -122,6 +147,8 @@ This strategy not only improves financial performance but also positions StreetS
 
 *PDF version* [View Financial Model | StreetSwift](./Financial%20Model%20%7C%20StreetSwift.pdf)
 
+
+--
 ## Constraints of the analysis
 
 * Sample Size Constraints: The current dataset provides a snapshot of 60–1,000 trips. While sufficient for identifying high-level trends, a larger longitudinal study (10,000+ rows) would be required to account for seasonal variations.
