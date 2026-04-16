@@ -120,8 +120,7 @@ The analysis indicates that StreetSwift’s current trajectory represents a fina
 
 This strategy not only improves financial performance but also positions StreetSwift as a scalable and efficient operator within the urban mobility market. The data supports the transition, the partnership structure enables it, however, the execution will be the determining factor.
 
-*PDF version* ### 📊 [Financial Model | StreetSwift](./Financial_Model_StreetSwift.pdf)
-
+*PDF version* [View Financial Model | StreetSwift](./Financial%20Model%20%7C%20StreetSwift.pdf)
 
 ## Constraints of the analysis
 
