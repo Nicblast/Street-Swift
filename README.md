@@ -57,15 +57,20 @@ The result of the above findings results in the following:
 ![IMG_3470](https://github.com/user-attachments/assets/a1087a68-af35-4f89-8dd2-39f3a15b2a06)
 
 
-__
 
 ## Strategic Recommendations:
 
-1.Fleet Relocation: Immediately transition 80% of the "Industrial Zone" fleet to the "Airport" and "Downtown" hubs where demand and completion rates are highest.
+**Fleet Relocation:** 
 
-2.Pricing Restructuring: Implement a minimum booking fee (e.g., $20 minimum) to ensure that short-duration "micro-trips" remain profitable.
+Immediately transition 80% of the "Industrial Zone" fleet to the "Airport" and "Downtown" hubs where demand and completion rates are highest.
 
-3.Tier Maintenance Audit: Conduct a physical audit of all "Luxury" assets to address the source of low user ratings and protect the brand’s premium positioning.
+**Pricing Restructuring:** 
+
+Implement a minimum booking fee (e.g., $20 minimum) to ensure that short-duration "micro-trips" remain profitable.
+
+**Tier Maintenance Audit:** 
+
+Conduct a physical audit of all "Luxury" assets to address the source of low user ratings and protect the brand’s premium positioning.
 
 
 <img width="1536" height="1024" alt="IMG_3471" src="https://github.com/user-attachments/assets/72127b2d-4610-4c4f-9e56-5addbcd94a4a" />
@@ -74,7 +79,7 @@ __
 
 
 
-## Financial Modelling Analysis | Scaling Strategy | Car X:
+## Financial Modelling Analysis | Scaling Strategy:
 
 This additional comparative analysis demonstrates StreetSwift’s transition from a negative margin operation to a profitable and scalable contribution margin framework. 
 
@@ -118,7 +123,7 @@ To address this, an Electric Scalability strategy is proposed. This model enhanc
 <img width="1341" height="601" alt="IMG_3517" src="https://github.com/user-attachments/assets/3b41e278-a69a-4111-b964-be3d139f565d" />
 
 
-## Operational Mode:
+## Operational Model:
 
 <img width="1536" height="1024" alt="IMG_3519" src="https://github.com/user-attachments/assets/47a75ba2-5cee-433d-b0ac-98c70cc08a20" />
 
