@@ -70,7 +70,7 @@ The result of the above findings results in the following:
 
 This additional comparative analysis demonstrates StreetSwift’s transition from a negative margin operation to a profitable and scalable contribution margin framework. 
 
-The strategy focuses on shifting from high maintenance gas assets to a structured Electric Vehicle partnership, alongside implementing tiered geographic pricing. Under this model, the financial position improves from a monthly loss of $12,352.00 to a projected monthly profit of $29,700.
+The strategy focuses on shifting from high maintenance primarly gas assets to a structured fully Electric Vehicle partnership, alongside implementing tiered geographic pricing. Under this model, the financial position improves from a monthly loss of $12,352.00 to a projected monthly profit of $29,700.
 
 **The Industrial Zone Constraint**
 
@@ -83,7 +83,7 @@ The table below presents a snapshot of current performance. Annual projections h
 <img width="1350" height="607" alt="IMG_3515" src="https://github.com/user-attachments/assets/52b6b2fe-a91b-41e7-a0a9-c3d446f66c71" />
 
 
-Optimized Gas Fleet Strategy
+**Optimized Gas Fleet Strategy**
 The first part of the analysis identifies the airport and suburban zones as the most profitable locations. In contrast, the industrial area performs poorly due to a high cancellation rate and short trip durations, both of which negatively impact revenue efficiency.
 
 Based on these findings, the recommended immediate action was to remove operations from the industrial zone and reallocate resources to higher performing areas. This adjustment is expected to deliver a rapid financial turnaround.
