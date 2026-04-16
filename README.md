@@ -2,10 +2,8 @@
 
 ![IMG_3475](https://github.com/user-attachments/assets/0f44cae6-31e9-4820-a6eb-a2dc0259ea93)
 *(Image generated with AI)*
-
 --
 This analysis examines the first six months of StreetSwift, an urban mobility startup. The objective was to identify the root causes of high operational burn rates and lower-than-expected vehicle utilization across four primary city zones.
-
 --
 
 ## Methodology
@@ -33,42 +31,23 @@ To answer this for the CEO, the company has asked me to break that big question 
 * Are the cars actually being driven?
 * Why is our 'Total Bill' revenue lower than our projected growth?
 * Why aren't people coming back for a second ride?
-
 --
 
 ## Key Findings (Insights)
 
 * The "Industrial Zone" Leak: This sector shows a 100% cancellation rate in the sample period. Fleet deployment in this zone currently generates zero ROI and incurs unnecessary logistics costs.
 
-
-
 ![IMG_3473](https://github.com/user-attachments/assets/269a1074-4c69-4cf2-9b78-47594da38f7d)
-
-
-
-
 
 * Asset Underutilization: Average trip duration for "Economy" vehicles is under 1 hour. Given the fixed costs of maintenance and insurance per trip, short-duration rentals are currently operating at a net loss.
 
-
-
 ![IMG_3472](https://github.com/user-attachments/assets/359af46c-bf9c-4f69-b926-8b42b0d4662b)
-
-
-
-
 
 * Luxury Quality Gap: "Luxury" tier vehicles report a 40% lower average user rating compared to "Electric" models, suggesting that the premium price point does not currently align with the vehicle condition or user experience.
 
-
-
 ![IMG_3474](https://github.com/user-attachments/assets/71e9bcbe-0f35-45ba-a451-c613007c46bf)
 
-
-
 The result of the above findings results in the following:
-
-
 
 ![IMG_3470](https://github.com/user-attachments/assets/a1087a68-af35-4f89-8dd2-39f3a15b2a06)
 
@@ -112,7 +91,7 @@ Based on these findings, the recommended immediate action was to remove operatio
 
 The optimized approach includes complete withdrawal from the industrial zone and redeployment of the fleet to airport focused operations. A minimum booking fee of $20 is introduced to protect margins on short trips. In addition, physical audits of luxury assets are recommended to address low user ratings and maintain brand positioning within the premium segment.
 
-The following table illustrates the expected impact of this optimized gas fleet 
+The following table illustrates the expected impact of this optimized gas fleet ì:
 
 <img width="1337" height="843" alt="IMG_3516" src="https://github.com/user-attachments/assets/f12db83f-8a13-4438-8872-417e2a611b75" />
 
@@ -123,6 +102,7 @@ While the optimized gas fleet strategy delivers profitability, it remains expose
 From a risk management perspective, relying solely on this model is not sufficient for sustained growth. These factors create structural vulnerabilities that could impact profitability under adverse conditions.
 
 To address this, an Electric Scalability strategy is proposed. This model enhances profitability while significantly reducing operational risk and improving long term resilience. The Car X partnership model is built on core principles designed to mitigate the limitations of the gas fleet approach.
+
 
 <img width="1341" height="601" alt="IMG_3517" src="https://github.com/user-attachments/assets/3b41e278-a69a-4111-b964-be3d139f565d" />
 
