@@ -1,13 +1,14 @@
-# Street-Swift
+# Street-Swift Analysis | Executive Summary
 
 ![IMG_3475](https://github.com/user-attachments/assets/0f44cae6-31e9-4820-a6eb-a2dc0259ea93)
-(Image generated with AI)
+
+*(Image generated with AI)*
 --
 This analysis examines the first six months of StreetSwift, an urban mobility startup. The objective was to identify the root causes of high operational burn rates and lower-than-expected vehicle utilization across four primary city zones.
 
 ## Methodology
 
-The raw data required a multi-stage Python transformation to ensure reporting accuracy:
+The raw data focuses on a single month semple performance. The analysis required a multi-stage Python transformation to ensure reporting accuracy:
 
 **The transformation includes:**
 
@@ -19,9 +20,9 @@ The raw data required a multi-stage Python transformation to ensure reporting ac
 
 **Important note on methodology and data sources:**
 
-The data utilized in this project is a synthetic representation of car-sharing operations. It was generated using a custom script to simulate high-variance business scenarios, such as regional demand shifts and service-level fluctuations. This approach allows for a controlled validation of the Business Analyst's diagnostic framework without compromising sensitive proprietary or PII (Personally Identifiable Information) data.
+The data utilized in this project is a *synthetic representation* of car-sharing operations. It was generated using a custom script to simulate high-variance business scenarios, such as regional demand shifts and service-level fluctuations. This approach allows for a controlled validation of the Business Analyst's diagnostic framework without compromising sensitive proprietary or PII (Personally Identifiable Information) data.
 
-## Business Problem
+## Business Problem | The issue
 
 **Why is our fleet underperforming, and where exactly are we losing money?**
 
@@ -118,8 +119,6 @@ The revenue model is based on a 5% gross revenue share with the vehicle partner.
 The analysis indicates that StreetSwift’s current trajectory represents a financial liability, but the underlying business model remains viable. By eliminating low performing zones and transitioning to an asset light, electric first approach, the company can shift from a $148,224 annual loss to a projected $356,400 profit.
 
 This strategy not only improves financial performance but also positions StreetSwift as a scalable and efficient operator within the urban mobility market. The data supports the transition, the partnership structure enables it, however, the execution will be the determining factor.
-
-
 
 
 ## Constraints of the analysis
