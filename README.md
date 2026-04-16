@@ -25,9 +25,9 @@ The raw data focuses on a single month semple performance. The analysis required
 
 **Important note on methodology and data sources:**
 
-The data utilized in this project is a *synthetic representation* of car-sharing operations. It was generated using a custom script to simulate high-variance business scenarios, such as regional demand shifts and service-level fluctuations. This approach allows for a controlled validation of the Business Analyst's diagnostic framework without compromising sensitive proprietary or PII (Personally Identifiable Information) data.
+*The data utilized in this project is a *synthetic representation* of car-sharing operations. It was generated using a custom script to simulate high-variance business scenarios, such as regional demand shifts and service-level fluctuations. This approach allows for a controlled validation of the Business Analyst's diagnostic framework without compromising sensitive proprietary or PII (Personally Identifiable Information) data.*
 
-## Business Problem | The issue
+## Business Problem | The Issue
 
 **Why is our fleet underperforming, and where exactly are we losing money?**
 
@@ -36,7 +36,7 @@ To answer this for the CEO, the company has asked me to break that big question 
 * Are the cars actually being driven?
 * Why is our 'Total Bill' revenue lower than our projected growth?
 * Why aren't people coming back for a second ride?
---
+  
 
 ## Key Findings (Insights)
 
